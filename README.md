@@ -12,6 +12,10 @@
 * You can put in walls (if you want to be hated by everyone).
 * Original snake sounds!
 
+## Manual
+
+* For detailed instructions, you can visit the [project website](https://matei207.github.io/game)
+
 ## Installation and Usage
 
 #### Prerequisites:
