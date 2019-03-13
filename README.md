@@ -1,14 +1,53 @@
+# <SNAKE NAME HERE>
+[badge/something similar]
+[build stat]
+[license]  
 
-> Game name here
+## Features
 
-> Azure Pipelines badge here
+* Exciting battle royale snake killing frenzy to get your blood pumping
+* You can put in walls (if you want to be hated by everyone)
+* Original snake sounds 
 
-### running locally
+## Getting Started / Manual
 
-Install the latest [Node.js](http://nodejs.org) 8 Stable
+(Manual/getting started/github pages?)
 
-`npm install`
+## Installation and Usage
 
-`npm start`
+### Prerequisites:
 
-Open your web browser to `localhost:3000`
+* In order to install and run this project you must have [Node.js](http://nodejs.org) 8 Stable installed on your machine.
+
+### Installation:
+* Clone this project on your local machine.
+* Have the project as your working directory and run `npm install`
+
+### Usage:
+* To run the game, go to the installation/project directory
+* Run `npm start`
+* Go to `http://localhost:3000/` in your preferred browser
+* Enjoy
+
+## Examples
+
+can't think of anything yet
+
+## Other Resources
+
+* [Roadmap](/ROADMAP.md)
+
+CI/CD/Github pages maybe?
+
+### Code of conduct
+
+Link to code of conduct maybe?
+
+## Contributing
+
+* Contributions are encouraged and open to everyone.
+
+* To contribute, submit a PR to this repository, following the [contributors guide](CONTRIBUTING.md).
+
+## Contact
+* contact
