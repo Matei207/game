@@ -53,4 +53,4 @@ Link to code of conduct maybe?
 * To contribute, submit a PR to this repository, following the [contributors guide](CONTRIBUTING.md).
 
 ## Contact
-* contact
+* Acme Engineering
