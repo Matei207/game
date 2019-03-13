@@ -13,8 +13,7 @@ Please make sure you have read and understood our [Code of Conduct](/CODE-OF-CON
 
 ## GitHub Workflow Guide
 
-* The project follows a standard GitHub Workflow Guide
-![branch, commit, pull request, review](/assets/img/branchCommitPullReview.png)
+* The project follows a standard GitHub Workflow Guide: branch, commit, pull request and review
 
 * Find an issue you would like to work on and follow the following steps:
 
@@ -27,4 +26,4 @@ Please make sure you have read and understood our [Code of Conduct](/CODE-OF-CON
 
 ## Opening a Pull Request
 
-**SNAKE-O-DOME** follows the standard [GitHub Pull Request Process](https://help.github.com/en/articles/about-pull-requests) with pre-defined pull request templates.
+**SNAKE-O-DOME** follows the standard [GitHub Pull Request Process](https://help.github.com/en/articles/about-pull-requests) (also known as a PR) with pre-defined pull request templates.
