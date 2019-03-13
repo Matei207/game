@@ -1,4 +1,4 @@
-# SNAKE NAME HERE
+# SNAKE-O-DOME
 
 
 [![License: MPL 2.0](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)
@@ -7,9 +7,10 @@
 
 ## Features
 
-* Exciting battle royale snake killing frenzy to get your blood pumping
-* You can put in walls (if you want to be hated by everyone)
-* Original snake sounds 
+* Exciting battle royale snake killing frenzy to get your blood pumping.
+* You get to kill your friends in an 8-bit digital free-for-all arena.
+* You can put in walls (if you want to be hated by everyone).
+* Original snake sounds!
 
 ## Getting Started / Manual
 
