@@ -34,7 +34,15 @@
 
 ## Examples
 
-can't think of anything yet
+- For `OSX` users
+
+```
+~ $ git clone git@github.com:acme-hackathon/game.git
+~ $ cd game/
+~ $ npm install
+~ $ npm start
+~ $ open localhost:3000
+```
 
 ## Other Resources
 
