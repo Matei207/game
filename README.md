@@ -1,7 +1,7 @@
 # SNAKE-O-DOME
 
 
-[![License: MPL 2.0](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)
+[![Build Status](https://dev.azure.com/MXD615/MXD615/_apis/build/status/Matei207.game?branchName=master)](https://dev.azure.com/MXD615/MXD615/_build/latest?definitionId=1&branchName=master)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ![InnerSourceReady](https://img.shields.io/badge/Inner--Source-ready-blue.svg)
 
