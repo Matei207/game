@@ -9,7 +9,7 @@ All feedback is welcome!
 
 ## Before You Get Started
 
-Please make sure you have read and understood our [Code of Conduct](/CODE-OF-CONDUCT.md) and our [License Agreement](./license.md).
+Please make sure you have read and understood our [Code of Conduct](/code-of-conduct.md) and our [License Agreement](./license.md).
 
 ## GitHub Workflow Guide
 
