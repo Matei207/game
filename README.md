@@ -38,19 +38,22 @@ can't think of anything yet
 
 ## Other Resources
 
-* [Roadmap](/ROADMAP.md)
+* [Roadmap](/CHANGELOG.md) - to see the current direction and unreleased features of this project please look in the `UNRELEASED` section of the `CHANGELOG`
 
-CI/CD/Github pages maybe?
 
 ### Code of conduct
 
-Link to code of conduct maybe?
+* In order to contribute to our project, please review the [Code of Conduct](./code-of-conduct.md)
 
 ## Contributing
 
 * Contributions are encouraged and open to everyone.
 
 * To contribute, submit a PR to this repository, following the [contributors guide](CONTRIBUTING.md).
+
+## License
+
+* **SNAKE-O-DOME** follows the [MIT license](./LICENSE.md)
 
 ## Contact
 * Acme Engineering
