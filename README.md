@@ -12,17 +12,13 @@
 * You can put in walls (if you want to be hated by everyone).
 * Original snake sounds!
 
-## Getting Started / Manual
-
-(Manual/getting started/github pages?)
-
 ## Installation and Usage
 
-### Prerequisites:
+#### Prerequisites:
 
 * In order to install and run this project you must have [Node.js](http://nodejs.org) 8 Stable installed on your machine.
 
-### Installation:
+#### Installation:
 * Clone this project on your local machine.
 * Have the project as your working directory and run `npm install`
 
