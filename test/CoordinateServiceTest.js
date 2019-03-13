@@ -15,7 +15,6 @@ describe('CoordinateService', () => {
                            new Coordinate(2, 1),
                            new Coordinate(1, 1)];
 
-        player.changeDirection(Direction.LEFT);
         CoordinateService.movePlayer(player);
         let expectedSegments = [new Coordinate(6, 1),
                                 new Coordinate(5, 1),
@@ -32,8 +31,7 @@ describe('CoordinateService', () => {
                             new Coordinate(4, 1),
                             new Coordinate(3, 1)];
         assert.deepEqual(player.getSegments(), expectedSegments, 'Player did not move down as expected');
-
-        player.changeDirection(Direction.RIGHT);
+        
         CoordinateService.movePlayer(player);
         expectedSegments = [new Coordinate(5, 2),
                             new Coordinate(6, 2),
@@ -41,8 +39,7 @@ describe('CoordinateService', () => {
                             new Coordinate(5, 1),
                             new Coordinate(4, 1)];
         assert.deepEqual(player.getSegments(), expectedSegments, 'Player did not move left as expected');
-
-        player.changeDirection(Direction.DOWN);
+        
         CoordinateService.movePlayer(player);
         expectedSegments = [new Coordinate(5, 1),
                             new Coordinate(5, 2),
