@@ -9,6 +9,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Change README.md
 - Innersource this project
 
-## [0.0.1] - 13.03.2019
+## [0.0.1] - 13-03-2019
 ### Added
 - Changelog
+### Changed
+- Date to be separated by hyphens instead of dots in the chanelog
