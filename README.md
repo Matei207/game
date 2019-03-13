@@ -1,6 +1,6 @@
-# <SNAKE NAME HERE>
+# SNAKE NAME HERE
 [badge/something similar]
-[build stat]
+[https://img.shields.io/badge/Inner--Source-ready-blue.svg]
 [license]  
 
 ## Features
